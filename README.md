@@ -1,2 +1,2 @@
-# H0AR9x-Hardware
-H0AR9x is sensor hub module
+# H0AR91-Hardware
+Hexabitz Sensor Hub Module Hardware Design
