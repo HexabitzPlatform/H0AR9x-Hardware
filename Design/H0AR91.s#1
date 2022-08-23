@@ -11060,7 +11060,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <text x="199.4662" y="19.6342" size="1.9304" layer="100" font="vector">Title</text>
 <text x="180.9242" y="19.6342" size="1.9304" layer="102" font="vector">H0AR91</text>
 <text x="179.2478" y="11.2014" size="1.9304" layer="101" font="vector">Room Monitoring Station</text>
-<text x="206.3242" y="19.6342" size="1.9304" layer="101" font="vector">H0AR91_Backend</text>
+<text x="206.3242" y="19.6342" size="1.9304" layer="101" font="vector">H0AR91_Frontend</text>
 <wire x1="168.91" y1="3.81" x2="168.91" y2="8.128" width="0.1524" layer="205"/>
 <wire x1="168.91" y1="8.128" x2="168.91" y2="18.288" width="0.1524" layer="205"/>
 <wire x1="168.91" y1="18.288" x2="168.91" y2="22.86" width="0.1524" layer="205"/>
@@ -19986,7 +19986,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <text x="199.4662" y="19.6342" size="1.9304" layer="100" font="vector">Title</text>
 <text x="180.76545" y="19.79295" size="1.9304" layer="102" font="vector">H0AR91</text>
 <text x="179.2478" y="11.2014" size="1.9304" layer="101" font="vector">Room Monitoring Station</text>
-<text x="206.3242" y="19.6342" size="1.9304" layer="101" font="vector">H0AR91_Frontend</text>
+<text x="206.3242" y="19.6342" size="1.9304" layer="101" font="vector">H0AR91_Backend</text>
 <wire x1="168.91" y1="3.81" x2="168.91" y2="8.128" width="0.1524" layer="205"/>
 <wire x1="168.91" y1="8.128" x2="168.91" y2="18.288" width="0.1524" layer="205"/>
 <wire x1="168.91" y1="18.288" x2="168.91" y2="22.86" width="0.1524" layer="205"/>
